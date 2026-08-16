@@ -4557,7 +4557,7 @@
       "top_price": 2009.0,
       "mid_price": 1892.5,
       "btm_price": 1824.0,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "PR": {
@@ -8937,7 +8937,7 @@
       "top_price": 729.5,
       "mid_price": 708.0,
       "btm_price": 681.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "ss": {
@@ -16790,7 +16790,7 @@
       "top_price": 24643.5,
       "mid_price": 23923.0,
       "btm_price": 23282.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "zn": {
@@ -43506,7 +43506,7 @@
       "top_price": 2260.0,
       "mid_price": 2226.5,
       "btm_price": 2192.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "cs": {
@@ -66812,7 +66812,7 @@
       "top_price": 6084.0,
       "mid_price": 5772.5,
       "btm_price": 5290.0,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "v": {
@@ -85227,7 +85227,7 @@
       "top_price": 4866.0,
       "mid_price": 4681.0,
       "btm_price": 4498.0,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "jm": {
@@ -90748,7 +90748,7 @@
       "top_price": 3079.5,
       "mid_price": 3014.0,
       "btm_price": 2946.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "hc": {
@@ -92546,7 +92546,7 @@
       "top_price": 3297.0,
       "mid_price": 3243.0,
       "btm_price": 3153.0,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "wr": {
@@ -94215,7 +94215,7 @@
       "top_price": 451052.5,
       "mid_price": 426685.0,
       "btm_price": 400812.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "bc": {
@@ -97803,8 +97803,8 @@
           "c": "7829.000",
           "rsi": 60.68300426178839,
           "f009nSum": 84380,
-          "f015nSum": 65297,
-          "l_s_ratio": 1.2922492610686556
+          "f015nSum": 68247,
+          "l_s_ratio": 1.2363913432092253
         }
       },
       "start_idx": 80,
@@ -99288,7 +99288,7 @@
       "top_price": 8313.5,
       "mid_price": 8209.0,
       "btm_price": 8060.0,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "PM": {
@@ -129303,7 +129303,7 @@
       "top_price": 2795.0,
       "mid_price": 2693.5,
       "btm_price": 2588.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "lc": {
@@ -136308,7 +136308,7 @@
       "top_price": 4053.5,
       "mid_price": 3903.5,
       "btm_price": 3776.5,
-      "op": ""
+      "op": "consolidating"
     }
   },
   "pt": {
